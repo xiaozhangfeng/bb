@@ -1,0 +1,56 @@
+@charset "utf-8";
+.banner img{
+    width: 100%;
+    margin-bottom: 65px;
+}
+.centent1{
+    margin-bottom: 85px;
+}
+.centent1-left {
+    width: 652px;
+    font-size: 16px;
+    line-height: 30px;
+}
+.centent1-left span{
+    text-indent: 35px;
+}
+.centent2{
+    margin-bottom: 93px;
+}
+.centent2 li{
+    width: 420px;
+    height: 225px;
+    border-right: 2px solid #ccc;
+    text-align: center;
+}
+.centent2 li img{
+    margin-top: 52px;
+}
+.centent2 li .p1{
+    font-size: 26px;
+    color: #13AB3F;
+    margin-top: 10px;
+}
+.centent2 li .p2{
+    font-size: 18px;
+    color: #204B86;
+    margin-top: 28px;
+}
+.content3 img{
+    width: 100%;
+}
+.content4{
+    margin-top: 118px;
+    margin-bottom: 103px;
+}
+.content4 li{
+    width: 186px;
+    height: 190px;
+    margin-right: 84px;
+    text-align: center;
+}
+.content4 li p{
+    font-size: 18px;
+    color: #15BC60;
+    margin-top: 8px;
+}

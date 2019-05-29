@@ -1,0 +1,70 @@
+@charset "utf-8";
+.banner img{
+    width: 100% ;
+}
+.centent-top{
+    height: 278px;
+}
+.centent .centent-top-left{
+    width: 896px;
+    margin-left: 125px;
+}
+.centent-top-left h1{
+    font-size: 34px;
+    margin-top: 58px;
+    font-family: "黑体";
+   color: #1ABB5E;
+   margin-bottom: 28px;
+}
+.centent-top-left p{
+    font-size: 19px;
+}
+.centent-top-right .p1{
+    width: 331px;
+    height: 278px;
+    background-color: #17BA5F;
+    line-height: 220px;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+}
+.centent-top-right .p2{
+    width: 180px;
+    height: 44px;
+    background-color: #fff;
+    line-height: 44px;
+    text-align: center;
+    margin-top: -125px;
+    margin-left: 75px;
+}
+.centent-btm{
+    height: 794px;
+    background-color: #F1F2F7;
+}
+.centent-btm .centent-btm-top li:hover{
+    color: #30A6CA; 
+    border-bottom: 3px solid #30A6CA;
+}
+.centent-btm ul{
+    padding-top: 61px;
+}
+.centent-btm li{
+    width: 306px;
+    height: 296px;
+    padding: 0 35px;
+    background-color: #fff;
+    margin: 0 35px 35px 0;
+}
+.centent-btm li img,.centent-btm li h4,.centent-btm li p{
+    margin-bottom: 32px;
+}
+.centent-btm li h4{
+    font-size: 18px;
+    color: #11325F;
+}
+.centent-btm li p{
+    font-size: 17px;
+}
+.color{
+    color: #16B656;
+}

@@ -1,0 +1,78 @@
+@charset "utf-8";
+.banner img{
+    width: 100%;
+}
+.centent{
+    height: 1200px;
+    background-color: #F1F2F7;
+    padding-top: 23px;
+}
+.centent .centent-top p{
+    width: 276px;
+    height: 48px;
+    background-color: #84D7AD;
+    font-size: 20px;
+    line-height: 48px;
+    padding-left: 13px;
+    color: #fff;
+}
+.centent .centent-top .left{
+    background: url(../img/list.png) no-repeat 260px center;
+}
+.centent .centent-top .right{
+    background: url(../img/ss.png) no-repeat 260px center;
+}
+.centent .centent-btm{
+    margin-top: 13px;
+}
+.centent .centent-btm li div{
+    width: 343px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.centent .centent-btm li{
+    width: 392px;
+    height: 428px;
+    background-color: #fff;
+    padding-top: 55px;
+    margin-right: 46px;
+    margin-bottom: 38px;
+}
+.centent-btm li .sj{
+    margin-bottom: 28px;
+    font-size: 10px;
+}
+.centent-btm li .bt{
+    margin-bottom: 28px;
+    font-size: 20px;
+    color: #84D7AD;
+    line-height: 35px;
+}
+.centent-btm li .nr{
+    margin-bottom: 28px;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+.centent-btm li .gd{
+    position: absolute;
+    left:0;top: 356px;
+    color: #84D7AD;
+    font-size: 18px;
+}
+.fenye{
+    width: 89px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fenye p{
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    background-color: #19B961;
+    font-size: 12px;
+    color: #fff;
+    margin-left: 1px;
+}
